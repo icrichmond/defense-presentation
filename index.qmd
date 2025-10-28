@@ -1,0 +1,312 @@
+---
+title: "Support for biodiversity and ecosystem services highly variable across green alleys"
+author: "Isabella C. Richmond, Kayleigh Hutt-Taylor, Johanna Arnet, Lauren Bianco, Antonia Vieira Zanella, Carly D. Ziter"
+title-slide-attributes:
+  data-background-image: /presentation_imgs/image832.png
+  data-background-opacity: "0.65"
+format: 
+  revealjs:
+    theme: simple
+    slide-number: c
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## L'infrastructure verte dans le cadre de la politique
+
+::: columns
+::: {.column width="50%"}
+![](presentation_imgs/ppec.png){fig-align="left"}
+
+![](presentation_imgs/montrealbudg.png){fig-align="left"}
+:::
+
+::: {.column width="50%"}
+![](presentation_imgs/TR_IV.png){fig-align="right"}
+:::
+:::
+
+::: notes
+-   Cities are combatting many issues due to high levels of impervious surfaces such as urban heat islands, flooding, lack of connection to nature, etc. 
+-   Green infrastructure is increasingly proposed as one of the solutions to these issues
+-   Green infrastructure is integrated into our policies, including for example the plan for a green economy and Montreal's budget 
+:::
+
+## Le discours populaire des infrastructures vertes
+
+![[Le rapport sur les enjeux
+nationaux](https://changingclimate.ca/national-issues/fr/)](presentation_imgs/parkbenefits_fr.png)
+
+::: notes
+-   The majority of green infrastructure projects have a specific narrative surrounding them, where each project is claimed to have a long list of benefits associated with it 
+-   For example, air quality, biodiversity, social cohesion, etc. 
+-   These benefits are true, but most likely each individual project is not providing all of these, and we have not investigated when they are true / when they aren't / what type of management is required to provide these benefits
+:::
+
+## 
+
+![](presentation_imgs/conceptual_model.png)
+
+::: notes
+-   We sorted the benefits associated with green infrastructure into two categories 
+-   nature for nature
+-   nature for people 
+:::
+
+## L'étude de cas des ruelles vertes
+
+::: columns
+::: {.column width="60%"}
+-   Augmenter la biodiversité
+
+-   Augmenter la connectivité écologique
+
+-   Réduire l'effet des îlots de chaleur
+
+-   Améliorer la qualité de l'air
+
+-   Fournissent des habitats pour des petits mammifères, des oiseaux et
+    des insectes
+:::
+
+::: {.column width="40%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](presentation_imgs/ecoquartiers.png){fig-align="left"}
+:::
+:::
+:::
+
+::: notes
+- We can use green alleys as a case study to look at this narrative surrounding green infrastructure
+
+- Green alleys are a great case study because they provide a unique opportunity in cities to green already dense areas and are well-liked by residents
+
+- often green alley projects have a long list of benefits associated but there is little research to back up how best to achieve these benefits and when they are present
+:::
+
+## Nos questions de recherche
+
+::: columns
+::: {.column width="50%"}
+::: incremental
+1.  Est-ce que les ruelles vertes fournissent plus du **soutien de la
+    biodiversité** que les ruelles grises et les rues ?
+
+2.  Est-ce que les ruelles vertes fournissent plus des **services
+    écosystémiques** que les ruelles grises et les rues ?
+:::
+:::
+
+::: {.column width="50%"}
+![](presentation_imgs/newruelle.jpg){width="60%"}
+:::
+:::
+
+
+## Échantillonnage des données écologiques {.smaller}
+
+![](presentation_imgs/studymap.png){fig-align="center"}
+
+
+::: notes
+-   We sampled green alleys in two cities: Montreal and Trois-Rivieres
+-   These two cities have very different green alley programs: Montreal is resident-led and Trois-Rivieres is municipally led 
+-   We sampled ecological measures at each green alley, as well as nearby grey alleys and adjacent sidewalks 
+-   We measured vegetative complexity, completed a tree inventory, sampled fireflies as a bioindicator in Montreal, and sampled air temperature 
+- Meanwhile, our collaborators at UdeM did a landscape architecture analysis and UQAM collaborators conducted interviews with residents
+:::
+
+## L'analyse des bénéfices
+
+![](presentation_imgs/analysis_model.png){fig-align="center"}
+
+::: notes
+-   We went back to the two categories of benefits for our analysis 
+-   For biodiversity support, we used the ecological data we had collected in ruelles and modelled canopy cover, firefly presence, tree diversity, etc. at each of our study sites 
+-   For ecosystem services, we used an interdisciplinary approach and combined our ecological data with the survey data collected by the UQAM team 
+-   First, we went through interview transcripts and inductively coded each mention of ecosystem services in the transcripts
+-   Then, combining the ecosystem services mentioned by residents with the ecological data we had collected, we modelled the ecosystem services at each site that were highlighted as important by residents. For example, the presence of trees and cooling 
+:::
+
+## Résultats des entretiens
+
+::: columns
+::: {.column width="40%"}
+-   19 services écosystémiques ont été mentionnés
+-   Plusieurs d'entre eux sont culturels
+
+:::
+
+::: {.column width="60%"}
+
+```{r}
+#| echo: false
+#| eval: true
+#| warning: false
+#| message: false
+#| label: table-s3
+
+library(scales)
+library(dplyr)
+library(flextable)
+
+interviews <- read.csv('presentation_imgs/es_coding.csv') %>% 
+  select(-c(TotalPeopleMentions))
+
+t <- col_bin("Greens", domain = 0:75)
+
+interviews %>% 
+  arrange(desc(TotalMentions)) %>% 
+  flextable() %>% 
+  bg(
+    j = c("TotalMentions"),
+    bg = t, part = "body"
+  ) %>% 
+  set_header_labels(
+    EcosystemService = "Service écosystémique",
+    TotalMentions = "Nombre total de mentions"
+  ) %>%
+  set_table_properties(
+    opts_html = list(
+      scroll = list(
+      height = "500px",
+      freeze_first_column = TRUE))
+  ) %>% 
+  fontsize(size = 18, part = 'all')
+
+
+
+```
+:::
+:::
+
+
+##
+
+**Les ruelles vertes présentent des niveaux similaires ou supérieurs de soutien de la biodiversité que les ruelles grises**
+
+![](presentation_imgs/ecobens.png){fig-align="center"}
+
+
+##
+
+**Les ruelles vertes présentent des niveaux similaires ou inférieurs de services écosystémiques que les ruelles grises**
+
+![](presentation_imgs/ecoservs.png){fig-align="center"}
+
+## L'atténuation de la température est variable à Montréal
+
+::: r-stack
+![](presentation_imgs/vsmpe_tod.png){fig-align="center" width="70%"}
+
+![](presentation_imgs/ruelles_mtl.png){.fragment fig-align="center"
+width="60%"}
+:::
+
+::: notes
+-   Maintenant on examine une service écosystémique: l'atténuation de la
+    température
+-   Ici, l'axe y est l'effet de refroidissement, donc un numero positif
+    indique que la ruelle verte est plus fraiche qu'une ruelle
+    traditionelle. Par contre, si l'effet de refroidissement est
+    negative, la ruelle verte est plus chaud qu'une ruelle
+    traditionelle.
+-   Le graphique au gauche est pendant le jour et le graphique au droit
+    est pendant la nuit, chaque ligne est une ruelle verte differente
+-   Ici il y a beaucoup de variation -- des lignes dessus et dessous
+    zero
+-   Mais, certains d'entre vous savent deja, les ruelles vertes à
+    Montréal sont très variable
+-   Certains sont très verts, comme la ruelle au gauche ici -- avec
+    quelques arbres, arbustes, et gazon. Mais certains sont un peu gris,
+    comme la ruelle au droit avec quelques boites du plantes
+-   En fait, les resultats de l'attenuation de la température ont raison
+:::
+
+## À Trois-Rivieres, les ruelles vertes rafraîchissent la nuit
+
+::: columns
+::: {.column width="70%"}
+![](presentation_imgs/tr_tod.png){fig-align="left"}
+:::
+
+::: {.column width="30%"}
+![](presentation_imgs/RV-TR-12.jpg){fig-align="right"}
+:::
+:::
+
+::: notes
+-   Mais, quand on voit l'attenuation de la température à TR, c'est
+    possible de voir une tendance. Pendant le jour, la majorité des
+    ruelles vertes sont plus chaud que les ruelles traditionelles. Mais
+    dans la nuit, la tendance s'inverse et la majorité des ruelles
+    vertes sont plus fraiches que les ruelles traditionelles
+-   Les ruelles vertes à TR sont differentes que les ruelles vertes à
+    Montréal. Ils sont gèrer par la ville, donc elles ont tous la même
+    apparence comme la photo ici.
+:::
+
+##  {background-image="presentation_imgs/dogwood.png"}
+
+::: columns
+::: {.column width="90%"}
+::: {style="background-color: #c0c0beff; opacity: 80%"}
+**Points à retenir**
+
+-   Les ruelles vertes offrent des bénéfices importants
+
+-   Les différents types de gestion ont des bénéfices différents
+
+    -   Montréal est plus variable mais aussi plus flexible
+    -   TR est moins variable mais moins apte à s'adapter aux besoins de la communauté
+
+-   Actuellement, le soutien de la biodiversité est plus haut que les
+    services écosystémiques dans nos ruelles **pour les bénéfices fournis par les arbres**
+    
+:::
+:::
+:::
+
+::: notes
+-   Some takeaways from our work: 
+-   Its certain that green alleys have important benefits, some of which we measured in our study but many of which we didn't 
+-   Not all alleys are providing the same level or types of benefits, and different management has different outcomes
+-   Montreal had more variable levels of the benefits we measured but also because they are resident led they are much more adaptable t o the needs of the community
+-   On the other hand, TR green alleys have a lot less variation but cannot adapt to the needs of their community 
+-   Finally, right now we are seeing that our alleys have higher levels of biodiversity support than ecosystem services when talking about tree-based benefits 
+:::
+
+## Merci beaucoup!
+
+::: columns
+::: {.column width="60%"}
+![](presentation_imgs/FR-Zule-logo_green.png)
+
+![](presentation_imgs/LabPhoto_Summer2024.jpg){width="70%"
+fig-align="center"}
+:::
+
+::: {.column width="40%"}
+::: {layout="[[-1], [1], [-1]]"}
+-   Mes collaborateurs/collaboratrices à UQAM, Organisme Respire, UdeM
+-   Les personnes interviewées
+-   Les ruelles !
+:::
+:::
+:::
+
+::: notes
+Je veux dire merci à tous me collaborateurs et collaboratrices, aussi à
+mon labo, Johanna qui m'a aidé beaucoup avec les analyses, et bien sûr
+tous les personnes interviewées et tous les ruelles. Merci!
+:::
+
+## Des questions?
+
+![](presentation_imgs/secrets.jpg){fig-align="center"}
+
+::: notes
+Je suis heureuse de prendre vos questions! Merci beaucoup pour votre
+temps et attention!
+:::
