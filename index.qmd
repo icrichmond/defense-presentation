@@ -15,8 +15,43 @@ format:
       data-background-opacity: "0.85"
 ---
 
-## Thank you 
+## Thank you! 
 
+::: {.fragment}
+
+![](presentation_imgs/LabPhoto2024.jpeg){.absolute top=50 left=0 width="400" height="400"}
+
+![](presentation_imgs/LabPhoto2022.jpg){.absolute bottom=0 left=50 width="400" height="350"}
+
+![](presentation_imgs/LabZoomPicture.png){.absolute top=25 right=150 width="450" height="400"}
+
+![](presentation_imgs/carlylaptop.jpg){.absolute bottom=0 right=50 width="300" height="400"}
+:::
+
+
+::: {.fragment}
+
+::: {layout="[[-1], [1], [-1]]"}
+::: columns
+::: {.column width="90%"}
+::: {style="background-color: #c0c0beff; opacity: 80%"}
+
+-   Carly & the ZULE lab 
+
+-   Committee members & examiners 
+
+-   Collaborators at UQAM, UdeM, Organisme Respire, UBC, McGill, MUN, uOttawa
+
+-   Alec, Laura, Andrew, Anne-Sophie, and many more! 
+
+-   My friends and family 
+    
+:::
+:::
+:::
+:::
+
+:::
 
 ## Nature is a key part of our cities 
 
@@ -42,19 +77,120 @@ format:
 ## Gaps?? 
 
 
-## Chapter 1: Land-use history causes differences in park nighttime cooling capacity and forest structure
+## Chapter 1: Land-use history causes differences in park nighttime cooling capacity and forest structure {.smaller}
 
-1. What are the effects of historical land-use on current park forest
-structure, diversity, and consequently the capacity to provide cooling? 
+::: {layout="[[-1], [1], [-1]]"}
+::: columns
+::: {.column width="33%"}
+![1950 (Ville de Montréal)](presentation_imgs/1950_annotated.png){fig-align="left"}
+:::
 
-2. How do surrounding communities differ around parks of each historical land-use type, and what are the implications for equitable access to cooling?
+::: {.column width="33%"}
+![1993 (Ville de Montréal)](presentation_imgs/1993_annotated.png){fig-align="center"}
+:::
 
-## Obtaining the historical land-uses of Montreal parks 
+::: {.column width="33%"}
+![2021 (Communauté Métropolitaine de Montréal)](presentation_imgs/2021_annotated.png){fig-align="right"}
+:::
+:::
+:::
 
-## Measuring capacity for cooling & forest structure 
+::: notes
+- cities are temporally dynamics 
+- the redevelopment of urban spaces is a social process 
 
-## 
+:::
+
+## We asked: 
+
+::: incremental
+
+::: {style="font-size: 150%;"}
+
+1.  What are the effects of historical land-use on current park forest structure, diversity, and consequently the capacity to provide cooling? 
+2.  How do surrounding communities differ around parks of each historical land-use type, and what are the implications for equitable access to cooling? 
+:::
+:::
 
 
+## We uncovered the history of parks around Montréal
+
+::: r-stack
+![](presentation_imgs/Parc-Angrignon-1947-mosaic.jpeg){.fragment width="80%" fig-align="center"}
+
+![](presentation_imgs/Parc-Angrignon-2019.jpg){.fragment width="50%" fig-align="center"}
+:::
+
+## We sampled temperature, forest structure, and population demographics in and around 27 parks {.smaller}
+
+![](presentation_imgs/figure_2.png){fig-align="center"}
+
+## Past land-use affects park cooling capacity
+
+![](presentation_imgs/plu_temp_total_plots.png){fig-align="center"}
+
+
+## Past land-use affects forest structure
+
+![](presentation_imgs/plu_tree_direct_plots.png){fig-align="center"}
+
+
+## Forest structure affects cooling 
+
+![](presentation_imgs/tree_temp_direct_plots.png){fig-align="center"}
+
+
+
+## The Luxury Effect surrounds our parks 
+
+::: incremental
+::: columns
+::: {.column .center}
+**Across all parks:**
+
+-   [⬆]{style="color:#CFA35E;"} level of education
+-   [⬇]{style="color:#45A291;"} visible minorities
+:::
+:::
+
+::: columns
+::: {.column width="50%"}
+Forested 🌲 and agricultural 🌾
+
+-   [⬆]{style="color:#CFA35E;"} median annual salary
+-   [⬆]{style="color:#CFA35E;"} single family homes
+:::
+
+::: {.column width="50%"}
+Industrial 🏭
+
+-   [⬇]{style="color:#45A291;"} median annual salary
+-   [⬇]{style="color:#45A291;"} single family homes
+:::
+:::
+:::
+
+
+
+
+## Put parks everywhere! ... with intentional, community led approaches
+
+::: columns
+::: {.column width="50%"}
+-   Historical data provides useful ecological context
+
+-   Parks have the capacity to provide cooling, regardless of historical land-use 
+
+-   To improve environmental equity, green space development must be community led and paired with stronger housing regulations
+:::
+
+::: {.column width="50%"}
+![](presentation_imgs/gent2.png){fig-align="right"}
+
+![](presentation_imgs/gent1.png){fig-align="right"}
+:::
+:::
+
+## Chapter 2: Green alleys in Quebec provide variable biodiversity support and ecosystem services {.smaller}
 
 
