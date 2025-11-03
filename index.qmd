@@ -255,12 +255,50 @@ Industrial 🏭
 
 ## Chapter 2: Green alleys in Quebec provide variable biodiversity support and ecosystem services {.smaller}
 
-## Résultats des entretiens
+::: columns
+::: {.column width="50%"}
+![](presentation_imgs/ppec.png){fig-align="left"}
+
+![](presentation_imgs/montrealbudg.png){fig-align="left"}
+:::
+
+::: {.column width="50%"}
+![](presentation_imgs/TR_IV.png){fig-align="right"}
+:::
+:::
+
+##
+
+![](presentation_imgs/conceptual_model.png)
+
+## Nos questions de recherche
+
+::: columns
+::: {.column width="50%"}
+::: incremental
+1.  Do green alleys provide more **biodiversity support** than grey alleys or streets ?
+
+2.  Do green alleys provide more **ecosystem services** than grey alleys or streets ?
+:::
+:::
+
+::: {.column width="50%"}
+![](presentation_imgs/newruelle.jpg){width="60%"}
+:::
+:::
+
+## We measured benefits in two ways
+
+
+![](presentation_imgs/analysis_model.png)
+
+
+## Interview results
 
 ::::: columns
 ::: {.column width="40%"}
--   19 services écosystémiques ont été mentionnés
--   Plusieurs d'entre eux sont culturels
+-   19 ecosystem services mentioned 
+-   Many of which are cultural 
 :::
 
 ::: {.column width="60%"}
@@ -288,8 +326,8 @@ interviews %>%
     bg = t, part = "body"
   ) %>% 
   set_header_labels(
-    EcosystemService = "Service écosystémique",
-    TotalMentions = "Nombre total de mentions"
+    EcosystemService = "Ecosystem service",
+    TotalMentions = "Total number of mentions"
   ) %>%
   set_table_properties(
     opts_html = list(
@@ -305,24 +343,18 @@ interviews %>%
 :::
 :::::
 
-## 
-
-**Les ruelles vertes présentent des niveaux similaires ou supérieurs de
-soutien de la biodiversité que les ruelles grises**
+## Green alleys have similar or higher levels of biodiversity support than grey alleys {.smaller}
 
 ![](presentation_imgs/ecobens.png){fig-align="center"}
 
-## 
-
-**Les ruelles vertes présentent des niveaux similaires ou inférieurs de
-services écosystémiques que les ruelles grises**
+## Green alleys have similar or lower levels of ecosystem services than grey alleys {.smaller}
 
 ![](presentation_imgs/ecoservs.png){fig-align="center"}
 
-## L'atténuation de la température est variable à Montréal
+## Temperature regulation is variable in Montréal {.smaller}
 
 ::: r-stack
-![](presentation_imgs/vsmpe_tod.png){fig-align="center" width="70%"}
+![](presentation_imgs/vsmpe_temp.png){fig-align="center" width="60%"}
 
 ![](presentation_imgs/ruelles_mtl.png){.fragment fig-align="center"
 width="60%"}
@@ -348,11 +380,11 @@ width="60%"}
 -   En fait, les resultats de l'attenuation de la température ont raison
 :::
 
-## À Trois-Rivieres, les ruelles vertes rafraîchissent la nuit
+## In Trois-Rivieres, green alleys cool at night
 
 ::::: columns
 ::: {.column width="70%"}
-![](presentation_imgs/tr_tod.png){fig-align="left"}
+![](presentation_imgs/tr_temp.png){fig-align="left" width="80%"}
 :::
 
 ::: {.column width="30%"}
@@ -376,19 +408,18 @@ width="60%"}
 ::::: columns
 :::: {.column width="90%"}
 ::: {style="background-color: #c0c0beff; opacity: 80%"}
-**Points à retenir**
+**Take-aways**
 
--   Les ruelles vertes offrent des bénéfices importants
+-   Green alleys are offering important benefits
 
--   Les différents types de gestion ont des bénéfices différents
+-   Different management approaches result in different benefits 
 
-    -   Montréal est plus variable mais aussi plus flexible
-    -   TR est moins variable mais moins apte à s'adapter aux besoins de
-        la communauté
+    -   Montréal is more variable and also more flexible
+    -   TR is less variable but less able to adapt to resident needs
 
--   Actuellement, le soutien de la biodiversité est plus haut que les
-    services écosystémiques dans nos ruelles **pour les bénéfices
-    fournis par les arbres**
+-   Right now, green alleys are providing more biodiversity support than ecosystem services  with respect to **benefits provided by trees**
+
+-   We recommend a bottom-up approach paired with **expert support** and **ongoing funding** to maximize the potential of green alleys
 :::
 ::::
 :::::
@@ -408,3 +439,11 @@ width="60%"}
     of biodiversity support than ecosystem services when talking about
     tree-based benefits
 :::
+
+
+## Chapter 3: Predictors of land-surface temperature and air pollution across Canadian cities are largely scale and city dependent {.smaller}
+
+
+
+
+## 

@@ -7,7 +7,7 @@
    viewBox="0 0 355.6 215.9"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    sodipodi:docname="ecobens.svg"
    inkscape:export-filename="ecobens.png"
    inkscape:export-xdpi="96"
@@ -27,13 +27,13 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.90312292"
-     inkscape:cx="992.11301"
-     inkscape:cy="477.78657"
-     inkscape:window-width="2560"
-     inkscape:window-height="1377"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="0.45156146"
+     inkscape:cx="335.5025"
+     inkscape:cy="362.07696"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      inkscape:pageshadow="2"
@@ -264,88 +264,73 @@
          id="tspan111"
          style="font-size:9.87778px;stroke-width:0.264583"
          x="3.7919292"
-         y="34.276897">Couverture de la canopée</tspan></text>
+         y="34.276897">Canopy cover</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:9.87777px;fill:#000000;stroke-width:0.264583"
        x="3.4363301"
-       y="57.566292"
+       y="61.362469"
        id="text167"><tspan
          sodipodi:role="line"
          id="tspan165"
          style="stroke-width:0.264583"
          x="3.4363301"
-         y="57.566292">Présence des lucioles</tspan></text>
+         y="61.362469">Firefly presence</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:9.87777px;fill:#000000;stroke-width:0.264583"
        x="3.8511963"
-       y="78.583801"
+       y="88.398643"
        id="text171"><tspan
          sodipodi:role="line"
          style="stroke-width:0.264583"
          x="3.8511963"
-         y="78.583801"
-         id="tspan173">Richesse des espèces </tspan><tspan
-         sodipodi:role="line"
-         style="stroke-width:0.264583"
-         x="3.8511963"
-         y="90.931015"
-         id="tspan309">d'arbres</tspan></text>
+         y="88.398643"
+         id="tspan309">Tree species richness</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:9.87777px;fill:#000000;stroke-width:0.264583"
        x="3.8511963"
-       y="111.94852"
+       y="115.48421"
        id="text179"><tspan
          sodipodi:role="line"
-         id="tspan177"
          style="stroke-width:0.264583"
          x="3.8511963"
-         y="111.94852">Diversité fonctionnelle </tspan><tspan
-         sodipodi:role="line"
-         style="stroke-width:0.264583"
-         x="3.8511963"
-         y="124.29573"
-         id="tspan311">des arbres</tspan></text>
+         y="115.48421"
+         id="tspan311">Tree functional diversity</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:9.87777px;fill:#000000;stroke-width:0.264583"
        x="3.7919297"
-       y="145.31325"
+       y="142.52039"
        id="text183"><tspan
          sodipodi:role="line"
          id="tspan181"
          style="stroke-width:0.264583"
          x="3.7919297"
-         y="145.31325">Complexité végétative</tspan></text>
+         y="142.52039">Vegetative complexity</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:9.87777px;fill:#000000;stroke-width:0.264583"
        x="3.4363301"
-       y="168.60263"
+       y="169.60596"
        id="text187"><tspan
          sodipodi:role="line"
          id="tspan185"
          style="stroke-width:0.264583"
          x="3.4363301"
-         y="168.60263">Proportion d'espèces indigènes </tspan></text>
+         y="169.60596">Proportion of native species</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:9.87777px;fill:#000000;stroke-width:0.264583"
        x="3.8511963"
-       y="191.89203"
+       y="196.69153"
        id="text191"><tspan
          sodipodi:role="line"
-         id="tspan189"
          style="stroke-width:0.264583"
          x="3.8511963"
-         y="191.89203">Proportion d'espèces</tspan><tspan
-         sodipodi:role="line"
-         style="stroke-width:0.264583"
-         x="3.8511963"
-         y="204.23924"
-         id="tspan313">envahissantes</tspan></text>
+         y="196.69153"
+         id="tspan313">Proportion of invasive species</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:9.87777px;fill:#000000;stroke-width:0.264583"
@@ -370,15 +355,15 @@
          y="16.991964">Trois-Rivières</tspan></text>
     <path
        style="fill:#000000;stroke:#175449;stroke-width:0.605;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart-3-5-9-3)"
-       d="M 185.4868,59.431294 V 51.803626"
+       d="M 185.4868,63.657588 V 56.02992"
        id="path1269-7-5-2-0" />
     <path
        style="fill:#000000;stroke:#175449;stroke-width:2.00588;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart-3-5-9-7)"
-       d="M 262.65906,40.06885 V 29.511533"
+       d="M 259.88418,40.726648 V 30.169331"
        id="path1269-7-5-2-9" />
     <path
        style="fill:#000000;stroke:#175449;stroke-width:2.00588;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart-3-5-9-7-2)"
-       d="M 185.98747,175.53721 V 164.9799"
+       d="M 185.98747,175.85321 V 165.2959"
        id="path1269-7-5-2-9-1" />
     <path
        style="fill:#000000;stroke:#175449;stroke-width:2.00588;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart-3-5-9-7-2-9)"
@@ -386,55 +371,55 @@
        id="path1269-7-5-2-9-1-5" />
     <path
        style="fill:#000000;stroke:#67322e;stroke-width:2.00588;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart-3-5-9-7-8)"
-       d="M 185.98747,22.388503 V 32.94582"
+       d="M 185.98747,23.046301 V 33.603618"
        id="path1269-7-5-2-9-7" />
     <text
        xml:space="preserve"
        style="font-size:24.7778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.17438;stroke-dasharray:none;stroke-opacity:1"
        x="239.0538"
-       y="94.278191"
+       y="99.353912"
        id="text3905"
        transform="scale(1.0559441,0.94701983)"><tspan
          sodipodi:role="line"
          id="tspan3903"
          style="font-size:24.7778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.17438;stroke-opacity:1"
          x="239.0538"
-         y="94.278191">=</tspan></text>
+         y="99.353912">=</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24.7778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.17438;stroke-dasharray:none;stroke-opacity:1"
        x="239.0538"
-       y="129.50946"
+       y="127.92868"
        id="text3905-1"
        transform="scale(1.0559441,0.94701983)"><tspan
          sodipodi:role="line"
          id="tspan3903-8"
          style="font-size:24.7778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.17438;stroke-opacity:1"
          x="239.0538"
-         y="129.50946">=</tspan></text>
+         y="127.92868">=</tspan></text>
     <path
        style="fill:#000000;stroke:#175449;stroke-width:0.605;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart-3-5-9-3-3)"
-       d="m 185.98747,147.17959 v -7.62767"
+       d="m 185.98747,144.8402 v -7.62767"
        id="path1269-7-5-2-0-4" />
     <path
        style="fill:#000000;stroke:#175449;stroke-width:0.605;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart-3-5-9-3-2)"
-       d="M 185.98747,85.678417 V 78.050749"
+       d="M 185.98747,90.718457 V 83.090789"
        id="path1269-7-5-2-0-29" />
     <path
        style="fill:#000000;stroke:#175449;stroke-width:0.605;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart-3-5-9-3-5)"
-       d="m 185.98747,119.04313 v -7.62767"
+       d="m 185.98747,117.77933 v -7.62767"
        id="path1269-7-5-2-0-3" />
     <path
        style="fill:#000000;stroke:#175449;stroke-width:0.605;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart-3-5-9-3-6)"
-       d="m 262.65906,147.17959 v -7.62766"
+       d="m 259.88418,144.8402 v -7.62766"
        id="path1269-7-5-2-0-9" />
     <path
        style="fill:#000000;stroke:#175449;stroke-width:2.00588;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart-3-5-9-7-9)"
-       d="M 262.65906,174.42111 V 163.86379"
+       d="M 259.88418,175.85322 V 165.2959"
        id="path1269-7-5-2-9-2" />
     <path
        style="fill:#000000;stroke:#175449;stroke-width:2.00588;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart-3-5-9-7-2-9-6)"
-       d="m 262.65906,185.25844 v 10.55731"
+       d="m 259.88418,185.25844 v 10.55731"
        id="path1269-7-5-2-9-1-5-4" />
     <circle
        style="fill:#175449;fill-opacity:1;stroke:#175449;stroke-width:0.504472;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -446,20 +431,20 @@
        xml:space="preserve"
        style="font-size:7.05556px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
        x="314.93729"
-       y="92.556046"
+       y="92.528122"
        id="text5233"><tspan
          sodipodi:role="line"
-         id="tspan5231"
          style="font-size:7.05556px;fill:#000000;stroke-width:0.264583"
          x="314.93729"
-         y="92.556046"
-         rotate="0 0 0 0 0 0 0 0">Plus de</tspan><tspan
+         y="92.528122"
+         id="tspan11871"
+         rotate="0 0 0 0 0">More</tspan><tspan
          sodipodi:role="line"
          style="font-size:7.05556px;fill:#000000;stroke-width:0.264583"
          x="314.93729"
-         y="101.3755"
-         id="tspan11871"
-         rotate="0 0 0 0 0 0 0 0 0 0">bénéfices</tspan></text>
+         y="101.34757"
+         rotate="0 0 0 0 0 0 0 0 0 0 0 0 0"
+         id="tspan1">benefits</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.05556px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
@@ -467,17 +452,17 @@
        y="119.77828"
        id="text5233-4"><tspan
          sodipodi:role="line"
-         id="tspan5231-7"
          style="font-size:7.05556px;fill:#000000;stroke-width:0.264583"
          x="313.96426"
          y="119.77828"
-         rotate="0 0 0 0 0 0 0 0 0">Moins de</tspan><tspan
+         id="tspan11871-5"
+         rotate="0 0 0 0 0">Less</tspan><tspan
          sodipodi:role="line"
          style="font-size:7.05556px;fill:#000000;stroke-width:0.264583"
          x="313.96426"
-         y="128.59772"
-         id="tspan11871-5"
-         rotate="0 0 0 0 0 0 0 0 0 0">bénéfices</tspan></text>
+         y="128.59773"
+         rotate="0 0 0 0 0 0 0 0 0 0 0 0 0"
+         id="tspan2">benefits</tspan></text>
     <circle
        style="fill:#67322e;fill-opacity:1;stroke:#67322e;stroke-width:0.504472;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path2649-3"
