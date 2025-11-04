@@ -59,7 +59,7 @@ width="300" height="400"}
 
 ## Nature is a key part of our cities
 
-Nicole
+![Qi of the City by Nicole Yu & Betty Woo](presentation_imgs/tnoc-p16.jpg){fig-align="center"}
 
 ::: notes
 -   the integration of nature with the built environment creates novel
@@ -271,14 +271,14 @@ Industrial 🏭
 
 ![](presentation_imgs/conceptual_model.png)
 
-## Nos questions de recherche
+## We asked
 
 ::: columns
 ::: {.column width="50%"}
 ::: incremental
-1.  Do green alleys provide more **biodiversity support** than grey alleys or streets ?
+1.  Do green alleys provide more **biodiversity support** than grey alleys or streets?
 
-2.  Do green alleys provide more **ecosystem services** than grey alleys or streets ?
+2.  Do green alleys provide more **ecosystem services** than grey alleys or streets?
 :::
 :::
 
@@ -360,25 +360,6 @@ interviews %>%
 width="60%"}
 :::
 
-::: notes
--   Maintenant on examine une service écosystémique: l'atténuation de la
-    température
--   Ici, l'axe y est l'effet de refroidissement, donc un numero positif
-    indique que la ruelle verte est plus fraiche qu'une ruelle
-    traditionelle. Par contre, si l'effet de refroidissement est
-    negative, la ruelle verte est plus chaud qu'une ruelle
-    traditionelle.
--   Le graphique au gauche est pendant le jour et le graphique au droit
-    est pendant la nuit, chaque ligne est une ruelle verte differente
--   Ici il y a beaucoup de variation -- des lignes dessus et dessous
-    zero
--   Mais, certains d'entre vous savent deja, les ruelles vertes à
-    Montréal sont très variable
--   Certains sont très verts, comme la ruelle au gauche ici -- avec
-    quelques arbres, arbustes, et gazon. Mais certains sont un peu gris,
-    comme la ruelle au droit avec quelques boites du plantes
--   En fait, les resultats de l'attenuation de la température ont raison
-:::
 
 ## In Trois-Rivieres, green alleys cool at night
 
@@ -392,25 +373,15 @@ width="60%"}
 :::
 :::::
 
-::: notes
--   Mais, quand on voit l'attenuation de la température à TR, c'est
-    possible de voir une tendance. Pendant le jour, la majorité des
-    ruelles vertes sont plus chaud que les ruelles traditionelles. Mais
-    dans la nuit, la tendance s'inverse et la majorité des ruelles
-    vertes sont plus fraiches que les ruelles traditionelles
--   Les ruelles vertes à TR sont differentes que les ruelles vertes à
-    Montréal. Ils sont gèrer par la ville, donc elles ont tous la même
-    apparence comme la photo ici.
-:::
+
 
 ##  {background-image="presentation_imgs/dogwood.png"}
 
+:::::: {layout="[[-1], [1], [-1]]"}
 ::::: columns
 :::: {.column width="90%"}
 ::: {style="background-color: #c0c0beff; opacity: 80%"}
-**Take-aways**
-
--   Green alleys are offering important benefits
+-   Green alleys are providing important benefits 
 
 -   Different management approaches result in different benefits 
 
@@ -423,27 +394,162 @@ width="60%"}
 :::
 ::::
 :::::
+::::::
 
-::: notes
--   Some takeaways from our work:
--   Its certain that green alleys have important benefits, some of which
-    we measured in our study but many of which we didn't
--   Not all alleys are providing the same level or types of benefits,
-    and different management has different outcomes
--   Montreal had more variable levels of the benefits we measured but
-    also because they are resident led they are much more adaptable t o
-    the needs of the community
--   On the other hand, TR green alleys have a lot less variation but
-    cannot adapt to the needs of their community
--   Finally, right now we are seeing that our alleys have higher levels
-    of biodiversity support than ecosystem services when talking about
-    tree-based benefits
-:::
 
 
 ## Chapter 3: Predictors of land-surface temperature and air pollution across Canadian cities are largely scale and city dependent {.smaller}
 
+::: fragment
+![](presentation_imgs/globalheat.png){.absolute top="200" left="0"
+width="600" height="200"}
+
+![](presentation_imgs/cci.png){.absolute top="250" right="75"
+width="400" height="100"}
+
+![](presentation_imgs/cbc.png){.absolute bottom="0" right="250"
+width="600" height="250"}
+
+:::
+
+## Chapter 3: Predictors of land-surface temperature and air pollution across Canadian cities are largely scale and city dependent {.smaller}
+
+
+![](presentation_imgs/todo.png){.absolute top="350" left="0"
+width="500" height="100"}
+
+![](presentation_imgs/homefresh.png){.absolute top="150" right="75"
+width="600" height="200"}
+
+![](presentation_imgs/cbc-air.png){.absolute bottom="0" right="250"
+width="600" height="200"}
 
 
 
-## 
+
+## Cities are complex and novel ecosystems 
+
+
+![](presentation_imgs/adapted-pickett-classic.png){fig-align="center"}
+
+
+## Cities are complex and novel ecosystems 
+
+
+![Adapted from Pickett et al. 2017, [Urban Ecosystems](http://link.springer.com/10.1007/s11252-016-0574-9)](presentation_imgs/adapted-pickett.png){fig-align="center"}
+
+
+## We asked 
+
+
+:::: incremental 
+::: {style="font-size: 150%;"}
+1.  What is the relative contribution of street trees to predicting urban heat and air pollution at different scales when compared to urban form and sociodemographics? 
+
+2.  What are the relationships between important predictors of temperature and air pollution in different cities and across scales? 
+:::
+::::
+
+
+## We measured temperature, air pollution, ecological form, urban form, and sociodemographics across 7 Canadian cities {.smaller}
+
+::::: columns
+::: {.column width="60%"}
+
+![](presentation_imgs/seven-cities.png){width="80%"}
+
+::: 
+
+::: {.column width="40%"}
+
+::: {layout="[[-1], [1], [-1]]"}
+
+- Ecosystem service indicator: land surface temperature,  air pollution (CO, NO2, SO2, UV, O3)
+
+- Ecological form: street tree diversity/size/density, greenness  
+
+- Urban form: building cover/height, road size/density, greyness 
+
+- Sociodemographics: income, race/ethnicity, immigration status, housing 
+
+:::
+
+:::
+
+:::::
+
+
+## We measured our variables at multiple scales {.smaller}
+
+::: {layout="[[-1], [1], [-1]]"}
+![](presentation_imgs/scale.png){fig-align="center"}
+:::
+
+
+
+
+## Inequity at the city scale was one of very few general predictors {.smaller}
+
+![](presentation_imgs/generaltemp.png){fig-align="center"}
+
+
+
+## Ecological form was an important predictor of temperature at the city and neighbourhood scales
+
+:::: {.columns}
+
+
+::: {.column width="50%"}
+
+
+![](presentation_imgs/cities_temp_ale.png){width="80%"}
+::: 
+
+::: {.column width="50%"}
+![](presentation_imgs/neighbourhoods_temp_ale.png){width="80%"}
+
+::: 
+
+::::
+
+
+## Predictive models can help us identify areas for further research  
+
+::::: incremental
+
+:::: columns
+
+::: {.column}
+
+- We need to assess scale-specific interventions for temperature and air-pollution related issues in cities 
+
+- Trees are most likely affecting the environmental conditions much more than is indicated in this study 
+
+- More multi-scale, multi-service studies are needed in Canada
+
+
+::: 
+
+::: {.column}
+
+![](presentation_imgs/cherry-blossom.jpg){fig-align="right" width="50%"}
+
+::: 
+
+
+
+::::
+
+
+:::::
+
+
+## Thesis Conclusions {background-image="presentation_imgs/milkweed-2_sarahodriscoll_photography.jpg"}
+
+- Historical conditions influence the present day 
+
+- Understudied, small forms of green infrastructure have the potential to provide many benefits but need management and research attention 
+
+- Spatial scale is an important consideration when intervening in Canadian cities 
+
+## {background-image="presentation_imgs/tnoc-p19.jpg"}
