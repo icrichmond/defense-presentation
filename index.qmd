@@ -61,17 +61,18 @@ width="300" height="400"}
 
 ![Qi of the City by Nicole Yu & Betty Woo](presentation_imgs/tnoc-p16.jpg){fig-align="center"}
 
+
 ::: notes
--   the integration of nature with the built environment creates novel
-    ecosystems
--   requires inter and trans disciplinary studies to be understood
+- novel ecosystem 
+- inherently interdisciplinary 
 :::
+
 
 
 
 ## There are many benefits of urban nature, which are disproportionately provided by trees {.smaller}
 
-![The Nature Conservancy](presentation_imgs/city.webp)
+![Pembrokeshire Coast National Park](presentation_imgs/benefits.jpg)
 
 ::: notes
 -   ecosystem services - regulating & cultural
@@ -79,6 +80,31 @@ width="300" height="400"}
 :::
 
 
+
+## These benefits are not equitably distributed
+
+
+:::::: columns
+:::: {.column width="50%"}
+![Schell et al., 2020,
+*Science*](presentation_imgs/schell.jpeg){width="350" height="475"
+fig-align="center"}
+::::
+
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+- Social processes underpin development 
+- Spatial and temporal variation is present 
+- Historical decisions continue to affect us 
+:::
+::::
+::::::
+
+
+::: notes
+-   decisions were made in the past, continue to affect our cities
+-   affected by urban form and spatial context
+:::
 
 ## These benefits are not equitably distributed
 
@@ -103,24 +129,28 @@ fig-align="center"}
 
 
 
-## Spatial patterns in nature's benefits are present at both small and large scales
 
-![Wang et al., 2024, *STOTEN*](presentation_imgs/wang.jpg)
+## Spatial patterns in nature's benefits are determined at multiple scales
 
 
-## My goals
+![](presentation_imgs/scale_variation.png){fig-align="center"}
+
+
+
+
+## My thesis provides evidence that can be used for action
 
 :::: incremental 
 ::: {style="font-size: 150%;"}
 
 
-1.  Integrate temporal heterogeneity and historical conditions
+1.  Integrate temporal heterogeneity and <span style="color:#006791;">**historical conditions**</span> 
 
-2.  Use interdisciplinary approaches and perspectives 
+2.  Use <span style="color:#006791;">**interdisciplinary**</span> approaches and perspectives 
 
-3.  Assess benefits of understudied types of green infrastructure 
+3.  Assess benefits of <span style="color:#006791;">**understudied**</span> types of green infrastructure 
 
-4.  Contribute a multi-scale, cross-city study to the Canadian urban ecology literature
+4.  Contribute a <span style="color:#006791;">**multi-scale**</span>, <span style="color:#006791;">**cross-city**</span> study to the Canadian urban ecology literature
 :::
 ::::
 
@@ -130,18 +160,18 @@ fig-align="center"}
 ::::::: {layout="[[-1], [1], [-1]]"}
 :::::: columns
 ::: {.column width="33%"}
-![1950 (Ville de
-Montréal)](presentation_imgs/1950_annotated.png){fig-align="left"}
+![Ville de
+Montréal](presentation_imgs/1950_annotated.png){fig-align="left"}
 :::
 
 ::: {.column width="33%"}
-![1993 (Ville de
-Montréal)](presentation_imgs/1993_annotated.png){fig-align="center"}
+![Ville de
+Montréal](presentation_imgs/1993_annotated.png){fig-align="center"}
 :::
 
 ::: {.column width="33%"}
-![2021 (Communauté Métropolitaine de
-Montréal)](presentation_imgs/2021_annotated.png){fig-align="right"}
+![Communauté Métropolitaine de
+Montréal](presentation_imgs/2021_annotated.png){fig-align="right"}
 :::
 ::::::
 :::::::
@@ -185,50 +215,100 @@ fig-align="center"}
 
 ## Past land-use affects park cooling capacity
 
-![](presentation_imgs/plu_temp_total_plots.png){fig-align="center"}
+::::: columns
+:::: {.column width="70%"}
+![](presentation_imgs/plu_temp_total_plots.png){fig-align="left" width="90%"}
+::::
+
+::::{.column width="30%"}
+::: {layout="[[-1], [1], [-1]]"}
+- Parks cool more during the day 
+- Daytime cooling was similar across historical land-use types 
+- Previously industrial sites cool less at night
+:::
+::::
+
+
+:::::
 
 
 
 ## Past land-use affects forest structure
 
-![](presentation_imgs/plu_tree_direct_plots.png){fig-align="center"}
+::::: columns
+:::: {.column width="70%"}
+![](presentation_imgs/plu_tree_direct_plots.png){fig-align="left" width="90%"}
+::::
+
+::::{.column width="30%"}
+::: {layout="[[-1], [1], [-1]]"}
+- Previously forested & agricultural sites had the highest mean basal area 
+- Previously industrial sites had the largest mean tree size 
+- Species richness was approximately the same 
+:::
+::::
+
+
+:::::
+
+
+
 
 
 
 ## Forest structure affects cooling
 
-![](presentation_imgs/tree_temp_direct_plots.png){fig-align="center"}
+::::: columns
+:::: {.column width="70%"}
+![](presentation_imgs/tree_temp_direct_plots.png){fig-align="left" width="90%"}
+::::
+
+::::{.column width="30%"}
+::: {layout="[[-1], [1], [-1]]"}
+- Relationships between basal area and cooling are dependent on time of day and tree size 
+- We see little effect of tree size or species richness on cooling for large trees 
+:::
+::::
+
+
+:::::
+
+
 
 
 
 ## The Luxury Effect surrounds our parks
 
-:::::::: incremental
-:::: columns
-::: {.column .center}
+::::: columns
+:::: {.column .center}
+::: {.fragment}
 **Across all parks:**
 
 -   [⬆]{style="color:#CFA35E;"} level of education
 -   [⬇]{style="color:#45A291;"} visible minorities
 :::
 ::::
+:::::
 
 ::::: columns
-::: {.column width="50%"}
+:::: {.column width="50%"}
+::: {.fragment}
 Forested 🌲 and agricultural 🌾
 
 -   [⬆]{style="color:#CFA35E;"} median annual salary
 -   [⬆]{style="color:#CFA35E;"} single family homes
 :::
+::::
 
-::: {.column width="50%"}
+:::: {.column width="50%"}
+::: {.fragment}
 Industrial 🏭
 
 -   [⬇]{style="color:#45A291;"} median annual salary
 -   [⬇]{style="color:#45A291;"} single family homes
 :::
+::::
 :::::
-::::::::
 
 
 ## Put parks everywhere! ... with intentional, community led approaches
@@ -237,8 +317,7 @@ Industrial 🏭
 ::: {.column width="50%"}
 -   Historical data provides useful ecological context
 
--   Parks have the capacity to provide cooling, regardless of historical
-    land-use
+-   Parks cool, regardless of historical land-use
 
 -   To improve environmental equity, green space development must be
     community led and paired with stronger housing regulations
@@ -351,14 +430,25 @@ interviews %>%
 
 ![](presentation_imgs/ecoservs.png){fig-align="center"}
 
-## Temperature regulation is variable in Montréal {.smaller}
+## Temperature regulation is variable in Montréal
 
-::: r-stack
-![](presentation_imgs/vsmpe_temp.png){fig-align="center" width="60%"}
+:::::: r-stack
+::::: columns
+:::: {.column width="75%"}
+![](presentation_imgs/vsmpe_temp.png){fig-align="left" width="75%"}
+:::: 
+
+:::: {.column width="25%"}
+::: {layout="[[-1], [1], [-1]]"}
+- Green alleys are cooler during the day than at night 
+- In Montreal, green alleys can be warmer or cooler than grey alleys 
+:::
+::::
+:::::
 
 ![](presentation_imgs/ruelles_mtl.png){.fragment fig-align="center"
-width="60%"}
-:::
+width="55%"}
+::::::
 
 
 ## In Trois-Rivieres, green alleys cool at night
@@ -481,36 +571,41 @@ width="600" height="200"}
 
 ## We measured our variables at multiple scales {.smaller}
 
-::: {layout="[[-1], [1], [-1]]"}
+- Extracted at the most important predictors of temperature and air pollution across cities/scales 
+- Assessed if there were generalizable patterns 
+
 ![](presentation_imgs/scale.png){fig-align="center"}
-:::
 
 
 
 
 ## Inequity at the city scale was one of very few general predictors {.smaller}
-
+::: {layout="[[-1], [1], [-1]]"}
 ![](presentation_imgs/generaltemp.png){fig-align="center"}
-
+:::
 
 
 ## Ecological form was an important predictor of temperature at the city and neighbourhood scales
 
-:::: {.columns}
+::::: columns
 
+:::: {.column width="50%"}
+::: {.fragment}
 
-::: {.column width="50%"}
+City:
 
-
-![](presentation_imgs/cities_temp_ale.png){width="80%"}
+![](presentation_imgs/city_ecologicalform.png){width="80%"}
 ::: 
-
-::: {.column width="50%"}
-![](presentation_imgs/neighbourhoods_temp_ale.png){width="80%"}
-
-::: 
-
 ::::
+
+:::: {.column width="50%"}
+::: {.fragment}
+Neighbourhood: 
+![](presentation_imgs/neighbourhoods_ecologicalform.png){width="80%"}
+
+::: 
+::::
+:::::
 
 
 ## Predictive models can help us identify areas for further research  
@@ -551,7 +646,10 @@ width="600" height="200"}
 :::: {.column width="90%"}
 ::: {style="background-color: #c0c0beff; opacity: 80%"}
 
-- Understanding historical conditions plays a role in understanding current conditions 
+**Thesis Take-Aways**
+
+
+- Integrating historical conditions facilitates understanding of current conditions 
 
 - Spatial scale is of critical importance when discussing nature's benefits 
 
