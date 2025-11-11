@@ -215,10 +215,11 @@ width="90%"}
 ## Past land-use affects forest structure
 
 :::::: columns
-::: {.column width="70%"}
-![](presentation_imgs/plu_tree_direct_plots.png){fig-align="left"
-width="90%"}
+:::: {.column width="70%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](presentation_imgs/plu_tree_direct_plots.png){fig-align="left"}
 :::
+::::
 
 :::: {.column width="30%"}
 ::: {layout="[[-1], [1], [-1]]"}
@@ -233,10 +234,11 @@ width="90%"}
 ## Forest structure affects cooling
 
 :::::: columns
-::: {.column width="70%"}
-![](presentation_imgs/tree_temp_direct_plots.png){fig-align="left"
-width="90%"}
+:::: {.column width="70%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](presentation_imgs/tree_temp_direct_plots.png){fig-align="left"}
 :::
+::::
 
 :::: {.column width="30%"}
 ::: {layout="[[-1], [1], [-1]]"}
