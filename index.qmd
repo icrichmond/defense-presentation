@@ -56,19 +56,15 @@ width="300" height="400"}
 ::::::
 :::::::
 
-
 ## Nature is a key part of our cities
 
-![Qi of the City by Nicole Yu & Betty Woo](presentation_imgs/tnoc-p16.jpg){fig-align="center"}
-
+![Qi of the City by Nicole Yu & Betty
+Woo](presentation_imgs/tnoc-p16.jpg){fig-align="center"}
 
 ::: notes
-- novel ecosystem 
-- inherently interdisciplinary 
+-   novel ecosystem
+-   inherently interdisciplinary
 :::
-
-
-
 
 ## There are many benefits of urban nature, which are disproportionately provided by trees {.smaller}
 
@@ -79,27 +75,23 @@ width="300" height="400"}
 -   vary across spatial and temporal contexts
 :::
 
-
-
 ## These benefits are not equitably distributed
 
-
 :::::: columns
-:::: {.column width="50%"}
+::: {.column width="50%"}
 ![Schell et al., 2020,
 *Science*](presentation_imgs/schell.jpeg){width="350" height="475"
 fig-align="center"}
-::::
+:::
 
 :::: {.column width="50%"}
 ::: {layout="[[-1], [1], [-1]]"}
-- Social processes underpin development 
-- Spatial and temporal variation is present 
-- Historical decisions continue to affect us 
+-   Social processes underpin development
+-   Spatial and temporal variation is present
+-   Historical decisions continue to affect us
 :::
 ::::
 ::::::
-
 
 ::: notes
 -   decisions were made in the past, continue to affect our cities
@@ -127,33 +119,28 @@ fig-align="center"}
 -   affected by urban form and spatial context
 :::
 
-
-
-
 ## Spatial patterns in nature's benefits are determined at multiple scales
-
 
 ![](presentation_imgs/scale_variation.png){fig-align="center"}
 
-
-
-
 ## My thesis provides evidence that can be used for action
 
-:::: incremental 
+:::: incremental
 ::: {style="font-size: 150%;"}
+1.  Integrate temporal heterogeneity and [**historical
+    conditions**]{style="color:#006791;"}
 
+2.  Use [**interdisciplinary**]{style="color:#006791;"} approaches and
+    perspectives
 
-1.  Integrate temporal heterogeneity and <span style="color:#006791;">**historical conditions**</span> 
+3.  Assess benefits of [**understudied**]{style="color:#006791;"} types
+    of green infrastructure
 
-2.  Use <span style="color:#006791;">**interdisciplinary**</span> approaches and perspectives 
-
-3.  Assess benefits of <span style="color:#006791;">**understudied**</span> types of green infrastructure 
-
-4.  Contribute a <span style="color:#006791;">**multi-scale**</span>, <span style="color:#006791;">**cross-city**</span> study to the Canadian urban ecology literature
+4.  Contribute a [**multi-scale**]{style="color:#006791;"},
+    [**cross-city**]{style="color:#006791;"} study to the Canadian urban
+    ecology literature
 :::
 ::::
-
 
 ## Chapter 1: Land-use history causes differences in park nighttime cooling capacity and forest structure {.smaller}
 
@@ -181,7 +168,6 @@ Montréal](presentation_imgs/2021_annotated.png){fig-align="right"}
 -   the redevelopment of urban spaces is a social process
 :::
 
-
 ## We asked:
 
 :::: incremental
@@ -195,7 +181,6 @@ Montréal](presentation_imgs/2021_annotated.png){fig-align="right"}
 :::
 ::::
 
-
 ## We uncovered the history of parks around Montréal
 
 ::: r-stack
@@ -206,82 +191,68 @@ width="80%" fig-align="center"}
 fig-align="center"}
 :::
 
-
 ## We sampled temperature, forest structure, and population demographics in and around 27 parks {.smaller}
 
 ![](presentation_imgs/figure_2.png){fig-align="center"}
 
-
-
 ## Past land-use affects park cooling capacity
 
-::::: columns
-:::: {.column width="70%"}
-![](presentation_imgs/plu_temp_total_plots.png){fig-align="left" width="90%"}
-::::
+:::::: columns
+::: {.column width="70%"}
+![](presentation_imgs/plu_temp_total_plots.png){fig-align="left"
+width="90%"}
+:::
 
-::::{.column width="30%"}
+:::: {.column width="30%"}
 ::: {layout="[[-1], [1], [-1]]"}
-- Parks cool more during the day 
-- Daytime cooling was similar across historical land-use types 
-- Previously industrial sites cool less at night
+-   Parks cool more during the day
+-   Daytime cooling was similar across historical land-use types
+-   Previously industrial sites cool less at night
 :::
 ::::
-
-
-:::::
-
-
+::::::
 
 ## Past land-use affects forest structure
 
-::::: columns
-:::: {.column width="70%"}
-![](presentation_imgs/plu_tree_direct_plots.png){fig-align="left" width="90%"}
-::::
+:::::: columns
+::: {.column width="70%"}
+![](presentation_imgs/plu_tree_direct_plots.png){fig-align="left"
+width="90%"}
+:::
 
-::::{.column width="30%"}
+:::: {.column width="30%"}
 ::: {layout="[[-1], [1], [-1]]"}
-- Previously forested & agricultural sites had the highest mean basal area 
-- Previously industrial sites had the largest mean tree size 
-- Species richness was approximately the same 
+-   Previously forested & agricultural sites had the highest mean basal
+    area
+-   Previously industrial sites had the largest mean tree size
+-   Species richness was approximately the same
 :::
 ::::
-
-
-:::::
-
-
-
-
-
+::::::
 
 ## Forest structure affects cooling
 
-::::: columns
-:::: {.column width="70%"}
-![](presentation_imgs/tree_temp_direct_plots.png){fig-align="left" width="90%"}
-::::
+:::::: columns
+::: {.column width="70%"}
+![](presentation_imgs/tree_temp_direct_plots.png){fig-align="left"
+width="90%"}
+:::
 
-::::{.column width="30%"}
+:::: {.column width="30%"}
 ::: {layout="[[-1], [1], [-1]]"}
-- Relationships between basal area and cooling are dependent on time of day and tree size 
-- We see little effect of tree size or species richness on cooling for large trees 
+-   Relationships between basal area and cooling are dependent on time
+    of day and tree size
+-   We see little effect of tree size or species richness on cooling for
+    large trees
 :::
 ::::
-
-
-:::::
-
-
-
-
+::::::
 
 ## The Luxury Effect surrounds our parks
 
 ::::: columns
 :::: {.column .center}
-::: {.fragment}
+::: fragment
 **Across all parks:**
 
 -   [⬆]{style="color:#CFA35E;"} level of education
@@ -290,9 +261,9 @@ fig-align="center"}
 ::::
 :::::
 
-::::: columns
+::::::: columns
 :::: {.column width="50%"}
-::: {.fragment}
+::: fragment
 Forested 🌲 and agricultural 🌾
 
 -   [⬆]{style="color:#CFA35E;"} median annual salary
@@ -301,15 +272,14 @@ Forested 🌲 and agricultural 🌾
 ::::
 
 :::: {.column width="50%"}
-::: {.fragment}
+::: fragment
 Industrial 🏭
 
 -   [⬇]{style="color:#45A291;"} median annual salary
 -   [⬇]{style="color:#45A291;"} single family homes
 :::
 ::::
-:::::
-
+:::::::
 
 ## Put parks everywhere! ... with intentional, community led approaches
 
@@ -330,11 +300,9 @@ Industrial 🏭
 :::
 :::::
 
-
-
 ## Chapter 2: Green alleys in Quebec provide variable biodiversity support and ecosystem services {.smaller}
 
-::: columns
+::::: columns
 ::: {.column width="50%"}
 ![](presentation_imgs/ppec.png){fig-align="left"}
 
@@ -344,40 +312,40 @@ Industrial 🏭
 ::: {.column width="50%"}
 ![](presentation_imgs/TR_IV.png){fig-align="right"}
 :::
-:::
+:::::
 
-##
+## 
 
 ![](presentation_imgs/conceptual_model.png)
 
 ## We asked
 
-::: columns
-::: {.column width="50%"}
+:::::: columns
+:::: {.column width="50%"}
 ::: incremental
-1.  Do green alleys provide more **biodiversity support** than grey alleys or streets?
+1.  Do green alleys provide more **biodiversity support** than grey
+    alleys or streets?
 
-2.  Do green alleys provide more **ecosystem services** than grey alleys or streets?
+2.  Do green alleys provide more **ecosystem services** than grey alleys
+    or streets?
 :::
-:::
+::::
 
 ::: {.column width="50%"}
 ![](presentation_imgs/newruelle.jpg){width="60%"}
 :::
-:::
+::::::
 
 ## We measured benefits in two ways
 
-
 ![](presentation_imgs/analysis_model.png)
-
 
 ## Interview results
 
 ::::: columns
 ::: {.column width="40%"}
--   19 ecosystem services mentioned 
--   Many of which are cultural 
+-   19 ecosystem services mentioned
+-   Many of which are cultural
 :::
 
 ::: {.column width="60%"}
@@ -432,24 +400,23 @@ interviews %>%
 
 ## Temperature regulation is variable in Montréal
 
-:::::: r-stack
-::::: columns
-:::: {.column width="75%"}
+::::::: r-stack
+:::::: columns
+::: {.column width="75%"}
 ![](presentation_imgs/vsmpe_temp.png){fig-align="left" width="75%"}
-:::: 
+:::
 
 :::: {.column width="25%"}
 ::: {layout="[[-1], [1], [-1]]"}
-- Green alleys are cooler during the day than at night 
-- In Montreal, green alleys can be warmer or cooler than grey alleys 
+-   Green alleys are cooler during the day than at night
+-   In Montreal, green alleys can be warmer or cooler than grey alleys
 :::
 ::::
-:::::
+::::::
 
 ![](presentation_imgs/ruelles_mtl.png){.fragment fig-align="center"
 width="55%"}
-::::::
-
+:::::::
 
 ## In Trois-Rivieres, green alleys cool at night
 
@@ -463,30 +430,28 @@ width="55%"}
 :::
 :::::
 
-
-
 ##  {background-image="presentation_imgs/dogwood.png"}
 
 :::::: {layout="[[-1], [1], [-1]]"}
 ::::: columns
 :::: {.column width="90%"}
 ::: {style="background-color: #c0c0beff; opacity: 80%"}
--   Green alleys are providing important benefits 
+-   Green alleys are providing important benefits
 
--   Different management approaches result in different benefits 
+-   Different management approaches result in different benefits
 
     -   Montréal is more variable and also more flexible
     -   TR is less variable but less able to adapt to resident needs
 
--   Right now, green alleys are providing more biodiversity support than ecosystem services  with respect to **benefits provided by trees**
+-   Right now, green alleys are providing more biodiversity support than
+    ecosystem services with respect to **benefits provided by trees**
 
--   We recommend a bottom-up approach paired with **expert support** and **ongoing funding** to maximize the potential of green alleys
+-   We recommend a bottom-up approach paired with **expert support** and
+    **ongoing funding** to maximize the potential of green alleys
 :::
 ::::
 :::::
 ::::::
-
-
 
 ## Chapter 3: Predictors of land-surface temperature and air pollution across Canadian cities are largely scale and city dependent {.smaller}
 
@@ -499,14 +464,12 @@ width="400" height="100"}
 
 ![](presentation_imgs/cbc.png){.absolute bottom="0" right="250"
 width="600" height="250"}
-
 :::
 
 ## Chapter 3: Predictors of land-surface temperature and air pollution across Canadian cities are largely scale and city dependent {.smaller}
 
-
-![](presentation_imgs/todo.png){.absolute top="350" left="0"
-width="500" height="100"}
+![](presentation_imgs/todo.png){.absolute top="350" left="0" width="500"
+height="100"}
 
 ![](presentation_imgs/homefresh.png){.absolute top="150" right="75"
 width="600" height="200"}
@@ -514,155 +477,221 @@ width="600" height="200"}
 ![](presentation_imgs/cbc-air.png){.absolute bottom="0" right="250"
 width="600" height="200"}
 
-
-
-
-## Cities are complex and novel ecosystems 
-
+## Cities are complex and novel ecosystems
 
 ![](presentation_imgs/adapted-pickett-classic.png){fig-align="center"}
 
+## Cities are complex and novel ecosystems
 
-## Cities are complex and novel ecosystems 
+![Adapted from Pickett et al. 2017, [Urban
+Ecosystems](http://link.springer.com/10.1007/s11252-016-0574-9)](presentation_imgs/adapted-pickett.png){fig-align="center"}
 
+## We asked
 
-![Adapted from Pickett et al. 2017, [Urban Ecosystems](http://link.springer.com/10.1007/s11252-016-0574-9)](presentation_imgs/adapted-pickett.png){fig-align="center"}
-
-
-## We asked 
-
-
-:::: incremental 
+:::: incremental
 ::: {style="font-size: 150%;"}
-1.  What is the relative contribution of street trees to predicting urban heat and air pollution at different scales when compared to urban form and sociodemographics? 
+1.  What is the relative contribution of street trees to predicting
+    urban heat and air pollution at different scales when compared to
+    urban form and sociodemographics?
 
-2.  What are the relationships between important predictors of temperature and air pollution in different cities and across scales? 
+2.  What are the relationships between important predictors of
+    temperature and air pollution in different cities and across scales?
 :::
 ::::
 
-
 ## We measured temperature, air pollution, ecological form, urban form, and sociodemographics across 7 Canadian cities {.smaller}
 
-::::: columns
+:::::: columns
 ::: {.column width="60%"}
-
 ![](presentation_imgs/seven-cities.png){width="80%"}
+:::
 
-::: 
-
-::: {.column width="40%"}
-
+:::: {.column width="40%"}
 ::: {layout="[[-1], [1], [-1]]"}
+-   Ecosystem service indicator: land surface temperature, air pollution
+    (CO, NO2, SO2, UV, O3)
 
-- Ecosystem service indicator: land surface temperature,  air pollution (CO, NO2, SO2, UV, O3)
+-   Ecological form: street tree diversity/size/density, greenness
 
-- Ecological form: street tree diversity/size/density, greenness  
+-   Urban form: building cover/height, road size/density, greyness
 
-- Urban form: building cover/height, road size/density, greyness 
-
-- Sociodemographics: income, race/ethnicity, immigration status, housing 
-
+-   Sociodemographics: income, race/ethnicity, immigration status,
+    housing
 :::
-
-:::
-
-:::::
-
+::::
+::::::
 
 ## We measured our variables at multiple scales {.smaller}
 
-- Extracted at the most important predictors of temperature and air pollution across cities/scales 
-- Assessed if there were generalizable patterns 
+-   Extracted at the most important predictors of temperature and air
+    pollution across cities/scales
+-   Assessed if there were generalizable patterns
 
 ![](presentation_imgs/scale.png){fig-align="center"}
 
-
-
-
 ## Inequity at the city scale was one of very few general predictors {.smaller}
+
 ::: {layout="[[-1], [1], [-1]]"}
 ![](presentation_imgs/generaltemp.png){fig-align="center"}
 :::
 
-
 ## Ecological form was an important predictor of temperature at the city and neighbourhood scales
 
-::::: columns
-
+::::::: columns
 :::: {.column width="50%"}
-::: {.fragment}
-
+::: fragment
 City:
 
 ![](presentation_imgs/city_ecologicalform.png){width="80%"}
-::: 
+:::
 ::::
 
 :::: {.column width="50%"}
-::: {.fragment}
-Neighbourhood: 
+::: fragment
+Neighbourhood:
 ![](presentation_imgs/neighbourhoods_ecologicalform.png){width="80%"}
-
-::: 
+:::
 ::::
-:::::
+:::::::
 
+## Predictive models can help us identify areas for further research
 
-## Predictive models can help us identify areas for further research  
+:::::: incremental
+::::: columns
+::: column
+-   We need to assess scale-specific interventions for temperature and
+    air-pollution related issues in cities
 
-::::: incremental
+-   Trees are most likely affecting the environmental conditions much
+    more than is indicated in this study
 
-:::: columns
+-   More multi-scale, multi-service studies are needed in Canada
+:::
 
-::: {.column}
-
-- We need to assess scale-specific interventions for temperature and air-pollution related issues in cities 
-
-- Trees are most likely affecting the environmental conditions much more than is indicated in this study 
-
-- More multi-scale, multi-service studies are needed in Canada
-
-
-::: 
-
-::: {.column}
-
+::: column
 ![](presentation_imgs/cherry-blossom.jpg){fig-align="right" width="50%"}
-
-::: 
-
-
-
-::::
-
-
+:::
 :::::
+::::::
 
-
-## {background-image="presentation_imgs/milkweed-2_sarahodriscoll_photography.jpg"}
+##  {background-image="presentation_imgs/milkweed-2_sarahodriscoll_photography.jpg"}
 
 :::::: {layout="[[-1], [1], [-1]]"}
 ::::: columns
 :::: {.column width="90%"}
 ::: {style="background-color: #c0c0beff; opacity: 80%"}
-
 **Thesis Take-Aways**
 
+-   Integrating historical conditions facilitates understanding of
+    current conditions
 
-- Integrating historical conditions facilitates understanding of current conditions 
+-   Spatial scale is of critical importance when discussing nature's
+    benefits
 
-- Spatial scale is of critical importance when discussing nature's benefits 
+-   Small, unconventional green infrastructure types are deserving of
+    our attention
 
-- Small, unconventional green infrastructure types are deserving of our attention 
-
-- Interdisciplinary work improves our ability to respond to the needs of people 
+-   Interdisciplinary work improves our ability to respond to the needs
+    of people
 :::
 ::::
 :::::
 ::::::
 
+##  {background-image="presentation_imgs/tnoc-p19.jpg"}
+
+## Chapter 1 DAG
+
+![](presentation_imgs/dag_chapter1.png){fig-align="center"}
+
+## Chapter 2 - example DAG
+
+![](presentation_imgs/mtl_dags_treediv.png){fig-align="center"}
+
+## Chapter 2 - ecological benefits DAGS
+
+![](presentation_imgs/mtl_dags_eb.png){fig-align="center"}
+
+## Chapter 2 - ecosystem services DAGs
+
+![](presentation_imgs/mtl_dags_es.png){fig-align="center"}
+
+## Green alleys as a case study
+
+::::::: columns
+:::: {.column width="60%"}
+::: {layout="[[-1], [1], [-1]]"}
+-   Increase biodiversity
+
+-   Increase ecological connectivity
+
+-   Reduce heat island effect
+
+-   Improve air quality
+
+-   Provide habitat for small mammals, birds, and insects
+:::
+::::
+
+:::: {.column width="40%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](presentation_imgs/ecoquartiers.png){fig-align="left"}
+:::
+::::
+:::::::
+
+## Interviewee demographics
+
+```{r}
+#| echo: false
+#| eval: true
+#| warning: false
+#| message: false
+#| label: interviewees
+
+library(tidyr)
+
+interviewees <- read.csv('presentation_imgs/participant_profiles.csv')
+
+df <- interviewees %>% 
+  select(c(Variable, Levels, Count)) %>% 
+  drop_na(Count)
+
+df %>% 
+  group_by(Variable) %>% 
+  mutate(Percent =  round(100 *Count/sum(Count), 0)) %>% 
+  ungroup() %>%
+  flextable() %>%
+  set_table_properties(
+  opts_html = list(
+    scroll = list(
+      height = "500px",
+      freeze_first_column = TRUE
+    )))
+
+```
+
+## Random forest modelling
+
+```{r}
+#| echo: false
+#| eval: true
+#| warning: false
+#| message: false
+#| label: example-rf-data
+
+rf <- read.csv('presentation_imgs/cities_temp.csv')
 
 
+rf %>% 
+  select(-X) %>% 
+  flextable() %>%
+  set_table_properties(
+  opts_html = list(
+    scroll = list(
+      height = "500px",
+      freeze_first_column = TRUE
+    )))
 
+```
 
-## {background-image="presentation_imgs/tnoc-p19.jpg"}
